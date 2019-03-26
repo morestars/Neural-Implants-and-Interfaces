@@ -113,7 +113,38 @@
   * obtuse angles become curved
   * ~~clean vertical lines at current onset become curved~~
   * does not channge Rs, so still reaches -1.2 in a vertical fashion
-  
+#### How does a pulse affect the neuron?
+* first phase
+  * cathodic pulse
+  * negative charges attract positive ions
+  * fewer positive ions next to neuron
+  * Vm depolarizes locally (gets more positive in relation to ECF)
+  * hyperpolarization on the sides (rmbr Applied Bioelectrics)
+* How much current is actually flowing near the neuron?
+  * I = 4*pi*r^2*i
+  * i = I / (4*pi*r^2) uA/patch area
+#### How is the stimulation current affected with added scare formation onthe electrode?
+* same for a current driven pulse
+* does not change due to scar formation
+* scar formation is bad for recording, less so far stimulation
+* voltage pulse?
+  * current goes down with increase scare tissue impedence
+  * decreased ability to stimulate neuron
+#### How does the pulse eboke an AP?
+* Typical pulses are 100-500 us in duration
+* graph in seconds --> increases by 1 ms for each step
+* all of the current conducted through Cm
+#### What is the approximate change in membrane potential delVm?
+* 100 uA pulse
+* 100 us
+* electrode is 1 mm away
+* trying to get order of magnitude here
+* d = 10 um fiber
+* L = 2.5 um node of Rnavier length
+* SA = pi * d * L = 78 um^2
+* Cm = 
+* i = 0.00062 uA
+* delVm = 82 mV
  
   
   
