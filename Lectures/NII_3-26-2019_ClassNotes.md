@@ -63,7 +63,7 @@
 * Platinum black
   * makes a 3D contact area to increase capacitance
 * PEDOT
-  * increases surface contact on a ____ level
+  * increases surface contact on a __?__ level
 * Surface roughening
 * Activated irridium
   * more irridium from one state to another (III <--> IV)
@@ -95,7 +95,26 @@
   * C charges at high, steady current
   * Initial voltage spike is conserved when folrage drops suddently at top of curve
   * Vr = I*Rs
+* Z = inf, R is large
+  * Exaggerated version from before
+* Z != inf
+  * Faradaic charge transfer
+  * Short over C initially, so voltage drop entirely over Rs
+#### In-call problems
+* Z?
+  * Z = inf
+* C = 66 nF
+* Rs = 6 kOhm
+* pits
+  * increase SA
+  * increase C
+  * flatter change in voltage region while current is high-steady, and low-steady
+* Faradaic reactions
+  * obtuse angles become curved
+  * ~~clean vertical lines at current onset become curved~~
+  * does not channge Rs, so still reaches -1.2 in a vertical fashion
   
+ 
   
   
 
