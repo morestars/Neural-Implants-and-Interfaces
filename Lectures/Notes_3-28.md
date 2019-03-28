@@ -74,10 +74,25 @@
 * radius is proportional to the square root of the intensity
 * recruitment: neurons that are responding to stimulation
 
-## PUlse duration effects on neural targeting
+## Pulse duration effects on neural targeting
 * increase pulse duraiton at a given amplitude
 * recruitment region remains constant
 * number of neurons recruited will change
   * increases for longer durations
   
-    
+## Axons have lower thresholds than cell bodies
+* cell body is under electrode 2
+* dendrites are to the right
+* axon is on the left
+
+## Soma and cmall-diamter axons are hard to activate
+* standard for dealing with the geometrical complication is to break it up into components
+  * look at activatin funciton for each region
+* previously looked at cable theory
+* rewrite into general form
+* activating function is proportional to 1/(RC)
+
+## Why large axons easier to activate than the small-diamter axons?
+
+
+
